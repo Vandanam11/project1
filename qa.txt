@@ -1,0 +1,15 @@
+1. Write a script to find the error pattern in a logs file and print the line where the error is there
+bash and python
+
+User logged in
+Job started and running
+Trying to connect to Database
+ERROR : Connection Database failed
+Trying to reconnect
+ERROR : ReadTimeOut, while connecting to DB
+Job is unstable
+Job is completed
+
+
+
+
